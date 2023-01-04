@@ -6,11 +6,11 @@
 }
 
 body {
-  background-color: #000;
-  color: #777;
+  background-color: #275f79;
+  color: #9b9b9b;
 }
 body a {
-  color: #777;
+  color: #9b9b9b;
   text-decoration: none;
   transition: 0.4s;
 }
@@ -49,13 +49,14 @@ body ul {
 .header-navbar ul li {
   margin: 0 1rem;
   text-transform: uppercase;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 .header-navbar ul li .active {
-  color: #20c997;
+  color: #75ccf5;
+  font-weight: 600;
 }
 .header-navbar ul li a:hover {
-  color: #20c997;
+  color: #75ccf5;
 }
 .header-social-media ul {
   display: flex;
@@ -70,6 +71,7 @@ body ul {
 }
 .header-social-media ul li {
   margin: 0 1rem;
+  font-size: 1.2rem;
 }
 .header-social-media ul li a:hover {
   color: #fff;
@@ -96,6 +98,8 @@ body ul {
   width: 31%;
   height: 400px;
   margin-bottom: 4%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2588235294);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -119,6 +123,7 @@ body ul {
   font-size: 2rem;
   font-weight: 300;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4784313725);
 }
 .gallery-card-btn {
   padding: 0.6rem 2rem;
@@ -129,8 +134,7 @@ body ul {
   letter-spacing: 1px;
 }
 .gallery-card-btn:hover {
-  background-color: #fff;
-  color: #20c997;
+  background-color: #275f79;
 }
 .gallery #card-1 {
   background-image: url("../img/animais.jpg");
@@ -252,11 +256,12 @@ body ul {
 
 footer {
   text-align: center;
+  color: #fff;
   padding-bottom: 2rem;
 }
 footer span {
   font-weight: bold;
-  color: #20c997;
+  color: #75ccf5;
 }
 
 /*# sourceMappingURL=styles.css.map */
