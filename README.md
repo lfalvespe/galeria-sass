@@ -2,7 +2,7 @@
 
 Projeto de galeria utilizando SASS.
 
-(Curso de SASS - Matheus Battisti - Hora de Codar)
+(Do Curso de SASS - Matheus Battisti - Hora de Codar)
 
 Acesse: https://lfalvespe.github.io/galeria-sass
 
