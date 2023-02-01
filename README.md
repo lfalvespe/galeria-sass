@@ -6,4 +6,4 @@ Projeto de galeria utilizando SASS.
 
 Acesse: https://lfalvespe.github.io/galeria-sass
 
-<img src="prints/galeria-sass.png" height="400">
+<img src="prints/galeria-sass.png">
